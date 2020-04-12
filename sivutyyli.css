@@ -1,0 +1,35 @@
+.fullpage{
+		background-color:light-grey;
+}
+.header li{
+	  display: inline-block;
+	  font-family: Arial, Helvetica, sans-serif;
+	  text-align:center;
+	  width:20%;
+	  padding:30px;
+	  font-size:20px;
+	  
+}
+.header a{
+		
+}
+.inner{
+	font-size:18px;
+	padding:20px;
+}
+.logo{
+		margin-left:-40px;
+		margin-bottom:-35px;
+}
+.header{
+	background-color:#7FFF00;
+}
+.main{
+	margin-top:-15px;
+	border-style: solid;
+	max-width:900px;
+	height:700px;
+	margin-left:25%;
+	margin-right:25%;
+	
+}
